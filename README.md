@@ -1,6 +1,9 @@
 -  hey, what's up?,
 -  I’m Diogo 
-- 🚀 Studying  Mobile / Front end
+- 🚀 Student in the area of ​​information systems.
+ Great interest in technology and innovation and a focus on Mobile/Front development!
+ knowledge of HTML, CSS, JavaScript, ReactJS,Apex, MySql, Git.
+ Always seeking to participate in events/workshops to gain greater  learning
 -
 :octocat: Follow me!
 
