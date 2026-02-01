@@ -111,15 +111,16 @@ Com uma grande admiração e curiosidade em coisas relacionado ao mundo Tech.
   align="left"
    alt="GitHub Stats"
   height="200"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg](https://github-readme-stats.vercel.app/api?username=Dih-Astro&show_icons=true&theme-dark&include_all_commits=true&locale=pt-br)"/>
+  style="padding-right: 10;"
+  src="https://github-readme-stats.vercel.app/api?username=Dih-Astro&show_icons=true&theme-dark&include_all_commits=true&locale=pt-br"/>
 
    <img 
-  align="left"
-   alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dih-astro&theme=dark&layout=compact&custom_title=Tecnologias" />
+     align="left"
+     alt="GitHub Stats"
+     height="200"
+     style=""
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dih-Astro&theme=dark&layout=compact&custom_title=Tecnologias"
+   />
 
  <br/>
   
