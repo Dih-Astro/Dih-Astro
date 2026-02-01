@@ -8,7 +8,7 @@
 Desenvolvedor Jr em Formação com conhecimentos em aplicações de desenvolvimento em web/Mobile utilizando JavaScript, ReactJs, React Native
 através de cursos e projetos acadêmicos/pessoais.
 Com uma grande admiração e curiosidade em coisas relacionado ao mundo Tech.
--
+
 
 ---
 ### 🤖 Tecnologias 
