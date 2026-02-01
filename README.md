@@ -4,7 +4,7 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+Junior)](https://git.io/typing-svg)
  
- Me Chamo [Diogo](https://www.linkedin.com/in/diogo-m-4a1353118/) tenho 26 Anos, sou de Brasilia - DF . Atualmente Terminando ensino superior em Sistemas da informação
+- Me Chamo [Diogo](https://www.linkedin.com/in/diogo-m-4a1353118/) tenho 26 Anos, sou de Brasilia - DF . Atualmente Terminando ensino superior em Sistemas da informação
 Desenvolvedor Jr em Formação com conhecimentos em aplicações de desenvolvimento em web/Mobile utilizando JavaScript, ReactJs, React Native
 através de cursos e projetos acadêmicos/pessoais.
 Com uma grande admiração e curiosidade em coisas relacionado ao mundo Tech.
