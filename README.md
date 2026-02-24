@@ -4,10 +4,10 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+Junior)](https://git.io/typing-svg)
  
-- Me Chamo [Diogo](https://www.linkedin.com/in/diogo-m-4a1353118/) tenho 26 Anos, sou de Brasilia - DF . Atualmente Terminando ensino superior em Sistemas da informação
-Desenvolvedor Jr em Formação com conhecimentos em aplicações de desenvolvimento em web/Mobile utilizando JavaScript, ReactJs, React Native
-através de cursos e projetos acadêmicos/pessoais.
-Com uma grande admiração e curiosidade em coisas relacionado ao mundo Tech.
+- Me Chamo [Diogo Moura](https://www.linkedin.com/in/diogo-m-4a1353118/) tenho 26 Anos, sou de Brasilia - DF . Desenvolvedor júnior em formação, com experiência no desenvolvimento de aplicações Web e Mobile utilizando JavaScript, React.js e React Native. Tenho construído minha base técnica por meio de cursos, projetos acadêmicos e projetos pessoais, sempre aplicando boas práticas de desenvolvimento.Possuo conhecimentos em Java, Python e Apex, além de experiência com bancos de dados como MySQL e Oracle. Também utilizo GitHub para versionamento de código e colaboração em projetos.
+
+                           
+
 
 
 ---
